@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="🌍 Toutes les chaînes",IPTV-Org - Index complet (10 000+ chaînes)
+https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:-1 group-title="📺 Chaînes gratuites officielles",Free-TV - Chaînes gratuites mondiales (HD)
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬 Films",IPTV-Org - Films
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="📰 Info",IPTV-Org - Info & Actualités
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+#EXTINF:-1 group-title="🎵 Musique",IPTV-Org - Musique
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+#EXTINF:-1 group-title="🎥 Documentaires",IPTV-Org - Documentaires
+https://iptv-org.github.io/iptv/categories/documentary.m3u
